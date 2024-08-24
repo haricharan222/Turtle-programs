@@ -1,0 +1,7 @@
+def happy_birthaday(name):
+    print("Happy birthaday to you!")
+    print("What is your name=xxxxx!")
+    print("How old are you=13!")
+    print()
+
+happy_birthaday("xxxxx")
